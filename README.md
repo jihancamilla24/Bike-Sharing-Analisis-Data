@@ -36,7 +36,7 @@ Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang di
     ```shell
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics]([http://192.168.1.23:8510](https://dashboardpy-kaibgeakouzfwc5zt5u3h9.streamlit.app/))
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dashboardpy-kaibgeakouzfwc5zt5u3h9.streamlit.app/)
 
 ## URL Dashboard
 
