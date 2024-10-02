@@ -27,6 +27,7 @@ Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang di
     ```
 
 ## Cara Manjalankan Dashboard
+
 1. Buka file dashboard.py yang ada pada file .zip
 2. pada Visual Studio Code, Klik "Run Without Debugging"
 3. Akan muncul terminal di bawah layar
