@@ -40,4 +40,4 @@ Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang di
 
 ## URL Dashboard
 
-[http://192.168.1.23:8510](https://dashboardpy-kaibgeakouzfwc5zt5u3h9.streamlit.app/)
+https://dashboardpy-kaibgeakouzfwc5zt5u3h9.streamlit.app/
